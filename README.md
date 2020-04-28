@@ -1,0 +1,2 @@
+# Boardman-Adventures-Database-
+A hypothetical Database I created for an adventure outfitter in order to assist with their operations and customer relations. This was mostly put together for a project in my first ever CIT course (Relational Databases); but I ended getting pretty invested into it as I continued to develope system that made sense for the hypotheical business. I'd love to see what everyon thinks of my project, as it's my first ever attempt at developing a database system, and I'm interested in making it more functional! I hope you all enjoy! 
